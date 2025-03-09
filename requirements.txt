@@ -1,0 +1,11 @@
+flask
+pandas
+scikit-learn
+xgboost
+joblib
+python-dotenv
+langchain
+openai
+gunicorn 
+langchain_community
+
